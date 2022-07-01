@@ -24,8 +24,8 @@ Need Todo:
 - add these lines into your .bashrc or .zsh or .whatevershell you use:
 ---
 clear
+
 neofetch
 
-#BG
 feh --bg-max ~/Downloads/chill-anime-wallpapers.jpg
 ---
