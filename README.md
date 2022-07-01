@@ -18,3 +18,14 @@ Ein minmales System, was jedoch maximiert. Es ist wunderbar.
 ---
 eventually:
 - nerd fonts: https://aur.archlinux.org/packages/nerd-fonts-complete
+
+
+Need Todo:
+- add these lines into your .bashrc or .zsh or .whatevershell you use:
+---
+clear
+neofetch
+
+#BG
+feh --bg-max ~/Downloads/chill-anime-wallpapers.jpg
+---
