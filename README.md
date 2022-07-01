@@ -27,5 +27,6 @@ clear
 
 neofetch
 
-feh --bg-max ~/Downloads/chill-anime-wallpapers.jpg
+feh --bg-max ~/path-to-the-image/image.jpg
+
 ---
