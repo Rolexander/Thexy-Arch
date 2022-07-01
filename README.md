@@ -3,17 +3,18 @@
 Ein minmales System, was jedoch maximiert. Es ist wunderbar.
 
 *OS:* Arch
+
 *WM:* qtile
 
 *Dependencies:*
 - Ubuntu font: https://aur.archlinux.org/packages/nerd-fonts-ubuntu-mono
-- git, pacman, yay (https://aur.archlinux.org/packages/yay), vim, emacs, kitty!, komorebi (wallpaper stuff), feh, neofetch, htop, dmenu, librewolf (yay -S librewolf-bin)
-  *file managers:* ranger/mc/nautilus 
+- git, pacman, vim, emacs, kitty!, neofetch, htop, dmenu
+- ranger/nautilus/mc
+- yay (https://aur.archlinux.org/packages/yay)
+- komorebi (livewallpaper stuff)
+- feh (wallpaper image)
+- librewolf (yay -S librewolf-bin)
 
-
-
-
-
-
+---
 eventually:
 - nerd fonts: https://aur.archlinux.org/packages/nerd-fonts-complete
