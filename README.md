@@ -1,5 +1,6 @@
 # Thexy-Arch
-![Alt text](/Screenshot/1656705173.png?raw=true)
+![Alt text](/Screenshot/screenshot.png?raw=true)
+![Alt text](/Screenshot/clean_desktop.png?raw=true)
 
 Ein minmales System, was jedoch maximiert. Es ist wunderbar.
 
