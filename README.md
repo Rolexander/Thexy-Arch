@@ -17,6 +17,8 @@ Ein minmales System, was jedoch maximiert. Es ist wunderbar.
 - feh (wallpaper image)
 - librewolf (yay -S librewolf-bin)
 
+- xmenu: den ordner einfach in den homefolder des users hineinkopieren >> DANN ERST die qtile configs übernehmen und so
+
 eventually:
 - nerd fonts: https://aur.archlinux.org/packages/nerd-fonts-complete
 
